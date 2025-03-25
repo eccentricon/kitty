@@ -1,4 +1,4 @@
-// kitty v1.0.0
+// kitty v1.0.1
 package kitty
 
 import "fmt"
@@ -8,5 +8,5 @@ func Meow() {
 }
 
 func GetVersion() string {
-	return "1.0.0"
+	return "1.0.1"
 }
